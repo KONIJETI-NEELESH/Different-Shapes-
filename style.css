@@ -167,3 +167,92 @@ body {
     border-top: 7.5rem solid palevioletred;
 }
 
+#div18 {
+    margin: 3rem;
+}
+
+#div18-1 {
+    width: 20rem;
+    height: 10rem;
+    border-radius: 20rem 20rem 0 0;
+    background-color: aqua;
+}
+
+#div18-2 {
+    margin-top: 2rem;
+    width: 20rem;
+    height: 10rem;
+    border-radius: 0 0 20rem 20rem;
+    background-color: aqua;
+}
+
+#div19 {
+    margin: 3rem;
+    display: flex;
+}
+
+#div19-1 {
+    width: 10rem;
+    height: 20rem;
+    border-radius: 20rem 0 0 20rem;
+    background-color: blue;
+}
+
+#div19-2 {
+    margin-left: 2rem;
+    width: 10rem;
+    height: 20rem;
+    border-radius: 0 20rem 20rem 0;
+    background-color: blue;
+}
+
+#div20 {
+    margin: 3rem;
+}
+
+#div20-1 {
+    display: flex;
+}
+
+#div20-2 {
+    display: flex;
+    margin-top: 2rem;
+}
+
+#div20-1-1 {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 10rem 0 0 0;
+    background-color: chartreuse;
+    margin-right: 2rem;
+}
+
+#div20-1-2 {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 0 10rem 0 0;
+    background-color: chartreuse;
+}
+
+#div20-2-1 {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 0 0 0 10rem;
+    background-color: chartreuse;
+    margin-right: 2rem;
+}
+
+#div20-2-2 {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 0 0 10rem 0;
+    background-color: chartreuse;
+}
+
+#div21 {
+    margin: 3rem;
+    width: 15rem;
+    height: 22rem;
+    background-color: blueviolet;
+    border-radius: 50%;
+}
